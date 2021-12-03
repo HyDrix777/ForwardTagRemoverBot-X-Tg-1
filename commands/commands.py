@@ -22,7 +22,7 @@ keyboard = [
  InlineKeyboardButton("CHANNEL", url=Config.SOURCE)
 ],
 [
- InlineKeyboardButton("How To Create A Bot Like Me",url="https://t.me/Tg_Galaxy")
+ InlineKeyboardButton("CHANNEL",url="https://t.me/Tg_Galaxy")
 ]
 ]
 
