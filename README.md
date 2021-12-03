@@ -70,6 +70,8 @@ qzl5kjhxrw73rcvr6ska3wzksu2vqsa20s4nt0ty8m
 <br/>
  
 ### Installation (Cloud) 🌩
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https%3A%2F%2Fgithub.com%2FHydrayt777%2FForwardTagRemoverBot-X-Tg.git&envs=BOT_TOKEN&BOT_TOKENDesc=Get+This+Value+from+https%3A%2F%2Ftelegram.dog%2FBotFather&referralCode=Hydrix)
+
  
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Artis7eer/ForwardTagRemoverBot/tree/main)
 
