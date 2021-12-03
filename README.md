@@ -1,4 +1,4 @@
-## Forward Tag Remover Bot 🤖
+## Forward Tag Remover Bot 🤖⭕
 >A Telegram Bot 🤖 to hide forward source
 
 <br/>
